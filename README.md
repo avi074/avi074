@@ -8,7 +8,7 @@
 ### Glad to see you here! &nbsp;
 ![](https://visitor-badge.glitch.me/badge?page_id=Avinash-msc.Avinash-msc&style=for-the-badge&color=0088cc)
 
-I'm a graduate in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm currently studying in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently working on my Data Structures and Algorithms 🤓.
 
 Joined Github **1** years ago.
 
@@ -20,7 +20,6 @@ Like My Work?
 
 🚀 Skills
 * Easy Communication
-* 
 * Critical Thinking
 * Problem Solving
 
