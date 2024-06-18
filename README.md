@@ -6,11 +6,9 @@
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916377235075)  &nbsp;
 
 ### Glad to see you here! &nbsp;
-![](https://visitor-badge.glitch.me/badge?page_id=Avinash-msc.Avinash-msc&style=for-the-badge&color=0088cc)
 
 I'm a Graduate in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently working on my Data Structures and Algorithms 🤓.
 
-Joined Github **3** years ago.
 
 Like My Work?
 
@@ -22,6 +20,10 @@ Like My Work?
 * Easy Communication
 * Critical Thinking
 * Problem Solving
+
+![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinash-msc&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-msc&langs_count=10)
 
 ### Languages and Tools:
 
