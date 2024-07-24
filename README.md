@@ -21,9 +21,9 @@ Like My Work?
 * Critical Thinking
 * Problem Solving
 
-![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinash-msc&show_icons=true&theme=dark)
+![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avi074&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-msc&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avi074&langs_count=10)
 
 ### Languages and Tools:
 
