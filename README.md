@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=avi074&icon=1&color=11)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 Recently I have done a full-stack web development course from Intershala & looking for an opportunity to showcase my skills.<br>As an ambitious person, I am eager to perform my best in upcoming opportunities & provide my 100% to my team & company.<br> I aim to become a well-rounded professional capable of making meaningful contributions to both development projects and team success.
 
@@ -15,14 +17,5 @@ Recently I have done a full-stack web development course from Intershala & looki
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=avi074&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=avi074&icon=1&color=11)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/avinashgautam) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
